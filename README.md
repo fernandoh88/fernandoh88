@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Fernando Machado 👋
 
-<!--
-**fernandoh88/fernandoh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Studies & Information Systems graduate based in British Columbia, Canada.
 
-Here are some ideas to get you started:
+I'm interested in IT support, cloud infrastructure, networking, cybersecurity, and software development. I enjoy troubleshooting technical problems and building practical applications that combine software, databases, APIs, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Languages**
+- Python
+- Java
+- JavaScript
+- C#
+- SQL
+- HTML / CSS
+
+**IT & Infrastructure**
+- IT Support & Troubleshooting
+- Linux
+- Networking
+- Cybersecurity
+- Google Cloud Platform
+- Terraform
+- Virtualization
+
+**Development**
+- React
+- Node.js
+- Express
+- Android Development
+- REST APIs
+
+**Databases & Services**
+- MongoDB
+- Firebase
+- Cloud Firestore
+
+**Other**
+- Git & GitHub
+- Machine Learning
+- Database Management
+
+## 🚀 Featured Projects
+
+### 🏋️ Workout Planner Android App
+Native Android fitness application built with Java, Firebase Authentication, Cloud Firestore, Firebase Storage, Retrofit, and the Wger API.
+
+### 🔨 Silent Auction Platform
+Full-stack real-time auction application built with React, Express, MongoDB, Firebase Authentication, and Socket.IO.
+
+### 🤖 Spam Email Detection
+Machine learning spam classifier built with Python and scikit-learn using TF-IDF, Random Forest, ROC analysis, model evaluation, and feature importance.
+
+### 🌐 Globalfer Website
+Full-stack business website built using React, Node.js, Express, and MongoDB.
+
+## 🎯 Career Interests
+
+I'm currently interested in opportunities involving:
+
+- IT Support
+- Technical Support
+- Application Support
+- Systems / Network Administration
+- Cloud Infrastructure
+- Junior Software Development
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Fernando Machado
+- 🌐 Portfolio: fernando-portfolio-pi.vercel.app
